@@ -10,8 +10,6 @@ Although I started programming as a hobby, I am now taking it more seriously and
 
 Sometimes I struggle with procrastination, but I am determined to overcome it and achieve my goals as a developer.
 
-- Short-form content [nrkmrvl.coder (Instagram)](https://www.instagram.com/nrkmrvl.coder)
-
 <!--
 - Short-form content [nrkmrvl.coder (Instagram)](https://www.instagram.com/nrkmrvl.coder)
 
