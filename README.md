@@ -10,7 +10,12 @@ Although I started programming as a hobby, I am now taking it more seriously and
 
 Sometimes I struggle with procrastination, but I am determined to overcome it and achieve my goals as a developer.
 
+- Short-form content [nrkmrvl.coder (Instagram)](https://www.instagram.com/nrkmrvl.coder)
+
 <!--
+- Short-form content [nrkmrvl.coder (Instagram)](https://www.instagram.com/nrkmrvl.coder)
+
+
 **nrkmrvl/nrkmrvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
