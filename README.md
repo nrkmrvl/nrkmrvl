@@ -16,7 +16,7 @@ Although I started programming as a hobby, I am now taking it more seriously and
 
 Sometimes I struggle with procrastination, but I am determined to overcome it and achieve my goals as a developer.
 
-<a align='left' href="https://instagram.com/nrkmrvl.coder" target="_blank">
+<a align='left' href="https://instagram.com/nrkmrvl.coder" target='_blank'>
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 
